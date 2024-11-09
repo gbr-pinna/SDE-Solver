@@ -1,6 +1,6 @@
 # SDE-Solver
 
-This repository contains a Jupyter notebook that implements a solver for Stochastic Differential Equations (SDEs) using the Euler-Maruyama scheme. The Euler-Maruyama method is a simple and widely used numerical method for solving SDEs, especially when dealing with stochastic processes.
+This repository contains a Jupyter notebook that implements a solver for Stochastic Differential Equations (SDEs) using the Euler-Maruyama scheme.
 
 The notebook demonstrates how to:
 1) Define and solve SDEs.
